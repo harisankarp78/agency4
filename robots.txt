@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://issue4.botx.co.in/sitemap.xml
